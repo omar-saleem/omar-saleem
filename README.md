@@ -13,5 +13,7 @@
 
 - 📫 Reach me on my [**LinkedIn**](https://linkedin.com/in/m-omar-sal) or at **muhammadomarsal@gmail.com** for collaborations or opportunities.
 
+<br />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-saleem&label=Profile%20views&color=0e75b6&style=flat" alt="omar-saleem" /> </p>
 
