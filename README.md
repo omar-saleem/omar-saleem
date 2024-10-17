@@ -1,5 +1,5 @@
 <h2 align="left">Greetings 👋</h2>
-<h4 align="left">I'm **Omar**, a Software Engineer with over three years of experience creating cutting-edge, user-focused web applications.</h4>
+<h4 align="left">I'm Omar, a Software Engineer with over three years of experience creating cutting-edge, user-focused web applications.</h4>
 
 - 🔭 Software Engineer at [**ClaimFlow GmbH**](https://en.claimflow.de/), building innovative solutions for finance and insurance.
 
